@@ -1,16 +1,53 @@
-## Hi there 👋
+#  Ana Júlia Favarin 
+**`Estudande de TI`**
 
-<!--
-**anajuliafc/anajuliafc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Meu nome é Ana Júlia favarin cardoso, tenho 19 anos e estou Cursanddo Técnico em Tecnologia da Informação pela "QI Faculdade & Escola écnica. Além de estudar Front-End pela Udemy
+---
+### 💻 Linguagens 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=anajuliafc&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuliafc&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
