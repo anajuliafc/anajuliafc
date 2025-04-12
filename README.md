@@ -4,7 +4,7 @@
 > Meu nome é Ana Júlia favarin cardoso, tenho 19 anos e estou Cursanddo Técnico em Tecnologia da Informação pela "QI Faculdade & Escola écnica. Além de estudar Front-End pela Udemy
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="www.linkedin.com/in/ana-júlia-favarin-cardoso-673901311">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
