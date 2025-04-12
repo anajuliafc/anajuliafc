@@ -2,16 +2,6 @@
 **`Estudande de TI`**
 
 > Meu nome é Ana Júlia favarin cardoso, tenho 19 anos e estou Cursanddo Técnico em Tecnologia da Informação pela "QI Faculdade & Escola écnica. Além de estudar Front-End pela Udemy
-
-<p align="left">
-    <a href="www.linkedin.com/in/ana-júlia-favarin-cardoso-673901311">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="www.linkedin.com/in/ana-júlia-favarin-cardoso-673901311">
         
 ---
 ### 💻 Linguagens 
